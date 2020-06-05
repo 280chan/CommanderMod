@@ -1,0 +1,8 @@
+{
+	"modid": "InGameCommanderMod",
+	"name": "游戏内测试指令Mod",
+	"author_list": ["彼君不触"],
+	"description": "可以在运行游戏的过程中即时输入代码使其运行。",
+	"version": "0.0.1",
+	"sts_version": "01-21-2020"
+}
